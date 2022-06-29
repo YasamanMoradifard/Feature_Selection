@@ -5,7 +5,7 @@
 
 #### Purpose of Feature selection:
 * Reducing computentional costs
-*2-* Imporve the performance of model
+* Imporve the performance of model
 
 #### Gained benefits from feature selection before applying ML model:
 * simpler model, then easier to explain it.
