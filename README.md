@@ -4,8 +4,8 @@
 #### There are different method for Feature selection. They are mentioned here, with an example:
 
 #### Purpose of Feature selection:
-1- Reducing computentional costs
-2- Imporve the performance of model
+* Reducing computentional costs
+*2-* Imporve the performance of model
 
 #### Gained benefits from feature selection before applying ML model:
 * simpler model, then easier to explain it.
@@ -13,7 +13,12 @@
 * Shorter training time, as we have lower feature dimension and also more precise subset of features. 
 * Variance reduction
 
+#### Dimensionality Reduction Techniques:
+1- Percent missing values:
+
 #### Feature selection methods:
+Feature selection mostly has been done using following methods:
+
 * Filter methods:
 Selecting features based on statistics. They can be:
     - Univariate: each feature's affect on output studies individually.
@@ -35,4 +40,3 @@ Feature selection is a part of learning procedure, so classification and feature
 * Categorical input, Categorical output: (classification predictive modeling)
     Chi-Squared test
 
-    
