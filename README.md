@@ -13,9 +13,6 @@
 * Shorter training time, as we have lower feature dimension and also more precise subset of features. 
 * Variance reduction
 
-#### Dimensionality Reduction Techniques:
-1- Percent missing values:
-
 #### Feature selection methods:
 Feature selection mostly has been done using following methods:
 
@@ -40,3 +37,16 @@ Feature selection is a part of learning procedure, so classification and feature
 * Categorical input, Categorical output: (classification predictive modeling)
     Chi-Squared test
 
+#### Dimensionality Reduction Techniques:
+* Percent missing values
+* Amount of variation
+* Pairwise correlation
+* Multicolinearity
+* Principle Component Analysis (PCA)
+* Cluster Analysis
+* Correlation (with target)
+* Forwards selection
+* Backward elimination (RFE)
+* Stepwise selection
+* LASSO
+* Tree-based selection
